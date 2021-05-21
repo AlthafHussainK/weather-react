@@ -9,6 +9,9 @@ body {
 }
 
 .app {
+  max-width: 500px;
+  margin: 0 auto;
+  border-radius: 2px;
   background-image: url('./assets/cold-bg.jpg');
   background-size: cover;
   background-position: bottom;
