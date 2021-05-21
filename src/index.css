@@ -12,7 +12,7 @@ body {
   background-image: url('./assets/cold-bg.jpg');
   background-size: cover;
   background-position: bottom;
-  transition: .4s ease-out;
+  transition: .4s ease;
 }
 
 .app.warm {
